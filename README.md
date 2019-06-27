@@ -5,4 +5,4 @@ Some examples and a playground to show the power of SwiftUI
 
  <img src="add-new-item-preview.gif"
 alt="Markdown Monster icon"
-style="float: left;width:50%;" />
+style="float: left;width:30%;" />
